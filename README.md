@@ -1,4 +1,4 @@
-# Dokumentasi Quizzes
+# Dokumentasi Write-Up
 
 ## Daftar Dokumen
 
