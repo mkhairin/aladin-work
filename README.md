@@ -4,7 +4,7 @@
 
 Berikut adalah daftar dokumen terkait proyek ini yang dapat diakses melalui Google Docs:
 
-- **[Operate and Manage a Cloud Server](https://docs.google.com/document/d/1mmzoWcnjI6IldQBhoXdl8nrtzqYscAJyAKDcVt7ORAE/edit?usp=sharing)**: Quiz 1.
+- **[Operate and Manage a Cloud Server](https://docs.google.com/document/d/1mmzoWcnjI6IldQBhoXdl8nrtzqYscAJyAKDcVt7ORAE/edit?usp=sharing)**: Quiz 1
 
 ## Daftar Module Cloud Computing
 
