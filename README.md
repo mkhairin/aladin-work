@@ -1,6 +1,6 @@
 # Dokumentasi Write-Up
 
-## Daftar Quizzes
+## Daftar Quiz
 
 Berikut adalah daftar dokumen terkait proyek ini yang dapat diakses melalui Google Docs:
 
