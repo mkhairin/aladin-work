@@ -5,7 +5,7 @@
 
 Berikut adalah daftar dokumen terkait proyek ini yang dapat diakses melalui Google Docs:
 
-- **[Operate and Manage a Cloud Server]([https://docs.google.com/document/d/your-doc-id](https://docs.google.com/document/d/1mmzoWcnjI6IldQBhoXdl8nrtzqYscAJyAKDcVt7ORAE/edit?usp=sharing))**: Dokumen ini menjelaskan rencana proyek secara keseluruhan, termasuk tujuan, ruang lingkup, dan jadwal.
+- **[Operate and Manage a Cloud Server]([https://docs.google.com/document/d/your-doc-id](https://docs.google.com/document/d/1mmzoWcnjI6IldQBhoXdl8nrtzqYscAJyAKDcVt7ORAE/edit?usp=sharing)**: Dokumen ini menjelaskan rencana proyek secara keseluruhan, termasuk tujuan, ruang lingkup, dan jadwal.
 - **[Dokumen Desain Sistem](https://docs.google.com/document/d/your-doc-id)**: Menyediakan rincian desain sistem, arsitektur, dan diagram.
 - **[Dokumen Panduan Pengguna](https://docs.google.com/document/d/your-doc-id)**: Panduan lengkap untuk pengguna akhir tentang cara menggunakan aplikasi.
 - **[Dokumen Catatan Pertemuan](https://docs.google.com/document/d/your-doc-id)**: Catatan dari pertemuan tim yang mencakup keputusan, tindakan, dan agenda.
