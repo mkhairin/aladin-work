@@ -23,4 +23,4 @@ Untuk mengakses dokumen-dokumen tersebut, Anda memerlukan izin dari pemilik doku
 
 Jika Anda memiliki pertanyaan atau memerlukan bantuan lebih lanjut, silakan hubungi:
 - **Nama Kontak**: [Muhammad Khairin](mailto:mkhairin04@gmail.com)
-- **GitHub**: [mkhairin04](https://github.com/username)
+- **GitHub**: [mkhairin](https://github.com/username)
