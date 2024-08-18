@@ -8,6 +8,10 @@ Berikut adalah daftar dokumen terkait proyek ini yang dapat diakses melalui Goog
 
 ## Daftar Module Cloud Computing
 
+Berikut adalah daftar dokumen terkait proyek ini yang dapat diakses melalui Google Docs:
+
+- **[Introduction to Cloud Computing](https://docs.google.com/document/d/1sXGHDImdIigmfyPlydVm2K4HbSevvsY1iUb31yAzDO0/edit?usp=sharing)**: Pertemuan 1
+
 ## Instruksi Akses
 
 Untuk mengakses dokumen-dokumen tersebut, Anda memerlukan izin dari pemilik dokumen atau harus memiliki akses yang relevan. Jika Anda tidak memiliki akses, silakan hubungi [Muhammad Khairin](mailto:mkhairin04@gmail.com) untuk meminta izin.
