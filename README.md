@@ -15,5 +15,5 @@ Untuk mengakses dokumen-dokumen tersebut, Anda memerlukan izin dari pemilik doku
 ## Kontak
 
 Jika Anda memiliki pertanyaan atau memerlukan bantuan lebih lanjut, silakan hubungi:
-- **Nama Kontak**: [Your Name](mailto:your-email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/username)
+- **Nama Kontak**: [Muhammad Khairin](mailto:mkhairin04@gmail.com)
+- **GitHub**: [mkhairin04](https://github.com/username)
