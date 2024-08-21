@@ -5,6 +5,7 @@
 Berikut adalah daftar dokumen terkait proyek ini yang dapat diakses melalui Google Docs:
 
 - **[Operate and Manage a Cloud Server](https://docs.google.com/document/d/1mmzoWcnjI6IldQBhoXdl8nrtzqYscAJyAKDcVt7ORAE/edit?usp=sharing)**: Quiz 1
+- **[Using OSS to Publish a Static Website](https://docs.google.com/document/d/1Kr4tK-6cfaloz8mxw23B9TdldYn8nGY_kkyjrD0auIE/edit?usp=sharing)**: Quiz 4
 
 ## Daftar Module Cloud Computing
 
