@@ -7,6 +7,9 @@ Berikut adalah daftar dokumen terkait proyek ini yang dapat diakses melalui Goog
 - **[Operate and Manage a Cloud Server](https://docs.google.com/document/d/1mmzoWcnjI6IldQBhoXdl8nrtzqYscAJyAKDcVt7ORAE/edit?usp=sharing)**: Quiz 1
 - **[ Using ECS to Construct a Dynamic Website](https://docs.google.com/document/d/1agsTjMZt-SQRkWW75_NZPIKWslZgmJ-xgxIGmwiWVCI/edit?usp=sharing)**: Quiz 2
 - **[Using OSS to Publish a Static Website](https://docs.google.com/document/d/1Kr4tK-6cfaloz8mxw23B9TdldYn8nGY_kkyjrD0auIE/edit?usp=sharing)**: Quiz 4
+- **[MySQL for Beginners - Basic Queries]**: Quiz 5
+- **[Manage and Operate MySQL Database]**: Quiz 6
+
 
 ## Daftar Module Cloud Computing
 
