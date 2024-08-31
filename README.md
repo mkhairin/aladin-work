@@ -8,7 +8,7 @@ Berikut adalah daftar dokumen terkait proyek ini yang dapat diakses melalui Goog
 - **[ Using ECS to Construct a Dynamic Website](https://docs.google.com/document/d/1agsTjMZt-SQRkWW75_NZPIKWslZgmJ-xgxIGmwiWVCI/edit?usp=sharing)**: Quiz 2
 - **[Using OSS to Publish a Static Website](https://docs.google.com/document/d/1Kr4tK-6cfaloz8mxw23B9TdldYn8nGY_kkyjrD0auIE/edit?usp=sharing)**: Quiz 4
 - **[MySQL for Beginners - Basic Queries](https://docs.google.com/document/d/159x7WRB2mADzWHe1Ny5WRO24pPU9CJeBm7A92su6dSQ/edit?usp=sharing)**: Quiz 5
-- **[Manage and Operate MySQL Database]**: Quiz 6
+- **[Manage and Operate MySQL Database](https://docs.google.com/document/d/1fVIFNuxOsPRu2AJRT5LvyEL6bjiyKH4AA2VyR9jVgO0/edit?usp=sharing)**: Quiz 6
 
 
 ## Daftar Module Cloud Computing
