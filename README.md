@@ -10,6 +10,7 @@ Berikut adalah daftar dokumen terkait proyek ini yang dapat diakses melalui Goog
 - **[MySQL for Beginners - Basic Queries](https://docs.google.com/document/d/159x7WRB2mADzWHe1Ny5WRO24pPU9CJeBm7A92su6dSQ/edit?usp=sharing)**: Quiz 5
 - **[Manage and Operate MySQL Database](https://docs.google.com/document/d/1fVIFNuxOsPRu2AJRT5LvyEL6bjiyKH4AA2VyR9jVgO0/edit?usp=sharing)**: Quiz 6
 - **[Network Series Courses](https://docs.google.com/document/d/1GY70vfJ2GnunhL45XfCCps8lPpp-hS_wKqfM9YlAuQM/edit?usp=sharing)**: Quiz 8
+- **[Alibaba Cloud Network Solution(Exam)](https://docs.google.com/document/d/1GY70vfJ2GnunhL45XfCCps8lPpp-hS_wKqfM9YlAuQM/edit?usp=sharing)**: Quiz 9
 
 
 ## Daftar Module Cloud Computing
