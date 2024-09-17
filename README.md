@@ -12,7 +12,7 @@ Berikut adalah daftar dokumen terkait proyek ini yang dapat diakses melalui Goog
 - **[Network Series Courses](https://docs.google.com/document/d/1GY70vfJ2GnunhL45XfCCps8lPpp-hS_wKqfM9YlAuQM/edit?usp=sharing)**: Quiz 8
 - **[Alibaba Cloud Network Solution(Exam)](https://docs.google.com/document/d/1hd_7_rWyyQEZnk6Xh1U6LRLuQDOYGGge47vg4Eg8_rk/edit?usp=sharing)**: Quiz 9
 - **[Internetworking with VPC（Exam)](https://docs.google.com/document/d/1bos66ZNZIa8yGyl1JU2vuOFhULLkrpQ9ZkVyhQdfACk/edit?usp=sharing)**: Quiz 10
-- **[Handle Large Traffic with Load Balancer](https://docs.google.com/document/d/1bos66ZNZIa8yGyl1JU2vuOFhULLkrpQ9ZkVyhQdfACk/edit?usp=sharing)**: Quiz 10
+- **[Handle Large Traffic with Load Balancer](https://docs.google.com/document/d/1bos66ZNZIa8yGyl1JU2vuOFhULLkrpQ9ZkVyhQdfACk/edit?usp=sharing)**: Quiz 11
 
 
 ## Daftar Module Cloud Computing
