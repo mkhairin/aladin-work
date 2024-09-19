@@ -5,7 +5,8 @@
 Berikut adalah daftar dokumen terkait proyek ini yang dapat diakses melalui Google Docs:
 
 - **[Operate and Manage a Cloud Server](https://docs.google.com/document/d/1mmzoWcnjI6IldQBhoXdl8nrtzqYscAJyAKDcVt7ORAE/edit?usp=sharing)**: Quiz 1
-- **[ Using ECS to Construct a Dynamic Website](https://docs.google.com/document/d/1agsTjMZt-SQRkWW75_NZPIKWslZgmJ-xgxIGmwiWVCI/edit?usp=sharing)**: Quiz 2
+- **[Using ECS to Construct a Dynamic Website](https://docs.google.com/document/d/1agsTjMZt-SQRkWW75_NZPIKWslZgmJ-xgxIGmwiWVCI/edit?usp=sharing)**: Quiz 2
+- **[Operate and Manage Object Storage on the Cloud](https://docs.google.com/document/d/1adtI5vOVZjX5jeWcM2Eh8eciVsxmyTmA5IJzeP8XAyw/edit?usp=sharing)**: Quiz 3
 - **[Using OSS to Publish a Static Website](https://docs.google.com/document/d/1Kr4tK-6cfaloz8mxw23B9TdldYn8nGY_kkyjrD0auIE/edit?usp=sharing)**: Quiz 4
 - **[MySQL for Beginners - Basic Queries](https://docs.google.com/document/d/159x7WRB2mADzWHe1Ny5WRO24pPU9CJeBm7A92su6dSQ/edit?usp=sharing)**: Quiz 5
 - **[Manage and Operate MySQL Database](https://docs.google.com/document/d/1fVIFNuxOsPRu2AJRT5LvyEL6bjiyKH4AA2VyR9jVgO0/edit?usp=sharing)**: Quiz 6
